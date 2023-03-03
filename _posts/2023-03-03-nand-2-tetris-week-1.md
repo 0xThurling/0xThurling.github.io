@@ -25,6 +25,7 @@ Soon after the main section you will be given a challenge to complete.
 ### How to approach it 🤔
 
 The instructors will ask you to complete each Logic Gate in the sequence it displays in the downloaded files.
+
 ![Project-01](https://res.cloudinary.com/thurling/image/upload/v1677831364/Blog%20Posts/Nand-week-one/Screenshot_2023-03-02_at_20.31.47_qmrooh.png)
 
 
