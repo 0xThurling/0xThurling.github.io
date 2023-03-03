@@ -25,7 +25,7 @@ Soon after the main section you will be given a challenge to complete.
 ### How to approach it 🤔
 
 The instructors will ask you to complete each Logic Gate in the sequence it displays in the downloaded files.
-![Project-01](https://cvws.icloud-content.com/B/AbzwvJC8fcGg_ns-x7W8R5UYvWAoAcSQ5njDRFs9cWqE5x0gT8xwy4IU/Screenshot+2023-03-02+at+20.31.47.png?o=Apk3zgf6l4lTAaud-IftBCxGx_qQUioZeWGDAi-AcaHL&v=1&x=3&a=CAognvsYeLD6zgWK3Ih49odb4r644FytQRnj8mcqYg9NZLQSbxDJvOGc6jAYyZm9nuowIgEAUgQYvWAoWgRwy4IUaifKQ1XWvvsiZ-1ztWBj1EkyW9cDX8Hw2GzTD6Loi1O_04wiSHnyq4tyJ89JhQ_spSYAhRn83leNPdTnfNlq4y62oCHOH8GIYPJVB_G3uDXT1Q&e=1677785517&fl=&r=ba2389f3-9311-4d3c-a962-4260e54cc34b-1&k=2XdtIXvVj7tLUH3ZyQqWyA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=32&s=1zAL6iB0AlPbzJxcCC8-4CcwOMM&cd=i)
+![Project-01](https://res.cloudinary.com/thurling/image/upload/v1677831364/Blog%20Posts/Nand-week-one/Screenshot_2023-03-02_at_20.31.47_qmrooh.png)
 
 
 Now this list won't mean to much at this point, but when going through the first challenge you will be asked to complete them from the top down, unless I misunderstood the professors explanation, I disagree with this approach for the following reason.
