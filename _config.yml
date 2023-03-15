@@ -20,6 +20,8 @@ plugins:
   - jekyll-seo-tag
 # Custom vars
 version:          2.1.0
+google_analytics: "G-J7LPSHLPY6"
+
 
 github:
   repo:           https://github.com/Gl4SS3S
