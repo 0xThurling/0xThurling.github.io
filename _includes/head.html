@@ -16,9 +16,9 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
+  <link rel="stylesheet" href="https://res.cloudinary.com/thurling/raw/upload/v1678868380/css-cdn/poole_x8jqya.css">
+  <link rel="stylesheet" href="https://res.cloudinary.com/thurling/raw/upload/v1678868380/css-cdn/syntax_qzmzwy.css">
+  <link rel="stylesheet" href="https://res.cloudinary.com/thurling/raw/upload/v1678868380/css-cdn/hyde_yct5sw.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->
@@ -29,7 +29,7 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
    
 
-  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% if jekyll.environment != 'production' and site.google_analytics %}
   {% include analytics.html %}
   {% endif %}
 </head>
