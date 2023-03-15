@@ -5,11 +5,11 @@ permalink:        pretty
 title:            Jacques Thurling
 tagline:          'Full-Stack Software Developer'
 description:      ''
-url:              jacquesthurling.com
+url:              https://www.jacquesthurling.com
 baseurl:          /
 
 author:
-  name:           ''
+  name:           'Jacques Thurling'
   url:            
 
 paginate:         5
