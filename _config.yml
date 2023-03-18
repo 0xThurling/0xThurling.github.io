@@ -18,6 +18,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 # Custom vars
 version:          2.1.0
 google_analytics: "G-J7LPSHLPY6"
