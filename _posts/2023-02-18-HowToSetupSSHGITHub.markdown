@@ -2,7 +2,6 @@
 layout: post
 title:  "How to Setup SSH on GitHub"
 date:   2023-02-18 
-categories: GitHub, SSH
 ---
 
 # How to setup SSH key for Github
