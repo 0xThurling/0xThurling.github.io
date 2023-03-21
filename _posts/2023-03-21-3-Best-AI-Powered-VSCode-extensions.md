@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "3 Best AI Powered VSCode extensions"
-date:   2023-03-21 
-categories: AI, VSCode, IDE, Programming
+date:   2023-03-21
 ---
 
 # 3 Best AI powered VSCode extension
