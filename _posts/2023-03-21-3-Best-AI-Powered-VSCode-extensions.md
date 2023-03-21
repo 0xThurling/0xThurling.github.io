@@ -39,6 +39,7 @@ Try Mintlify Writer [here](https://writer.mintlify.com/)
 
 ## 3. Code Attendant 👩🏻‍✈️
 ![Code Attendant](https://res.cloudinary.com/thurling/image/upload/v1679288695/Blog%20Posts/5%20Best%20AI%20tools/Code_attendant.gif)
+
 So I'll be honest most of the AI tools currently are mostly focused on generating code, "but, Mr., you already have  Github Co-pilot on the list, why to I have another one?".  
 
 And to that I say, *Code Attendant* is for those annoying code snippets you always need to google because you possibly forgot about the feature that was already built into the language. Haven't worked with JavaScript in a while, you possibly forgot how to get all specific elements using the `querySelector`, this is where this is extremely useful, I am not dragging my browser out and searching something I forgot for the millionth time and break my state of *flow*, instead I can do everything while I am busy developing.
