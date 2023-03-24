@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "NAND 2 Tetris - Week One"
-date:   2023-03-03 
-categories: Computer Science, Computer Systems, Logic Gates
+date:   2023-03-03
 ---
 
 # Nand 2 Tetris - Week 1 👾

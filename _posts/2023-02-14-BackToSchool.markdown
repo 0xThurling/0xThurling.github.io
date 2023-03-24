@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Back to School"
-date:   2023-02-14 
-categories: OSSU
+date:   2023-02-14
 ---
 
 Considering the rise of self-taught developers, which about a third of them not being officially taught in university where I am from, to the celebration of many (or dismay), the landscape has changed quite a bit, but now with the invention of AI tools, like ChatGPT and soon-to-be Bard AI from Google (if it doesn't cost them a few billion), it seems the foundations of our profession seems to be on shaky ground.
