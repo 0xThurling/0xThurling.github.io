@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-## I'm a Full-Stack Software developer for Capital International, currently going throught the OSSU curriculum as a way to sharpen my skills and documenting my journey
+## I'm a Full-Stack Software developer, currently going throught the OSSU and Computer Science at the Goldsmiths University of London.
