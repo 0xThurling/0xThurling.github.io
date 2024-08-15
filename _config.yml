@@ -1,28 +1,74 @@
+# Configurations
+title: Jacques Thurling
+longtitle: Jacques Thurling
+author: Jacques Thurling
+email: sighingnow@gmail.com
+description: >
+  Build Jekyll site with the GitBook style.
+
+version: 1.0
+gitbook_version: 3.2.3
+
+github_username: GL4SS3S
+
+url: "https://www.jacquesthurling.com/"
+baseurl: ""
+rss: RSS
+
+# bootstrap: use the remote theme for the site itself
+remote_theme: sighingnow/jekyll-gitbook
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
+favicon_path: /assets/gitbook/images/doge-icon.png
+
+# markdown render engine.
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  math_engine: mathjax
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    guess_lang: true
+
+syntax_highlighter_style: bw
+
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+
 # Permalinks
-permalink:        /:title/
+permalink: /:categories/:year-:month-:day-:title:output_ext
 
-# Setup
-title:            Jacques Thurling
-tagline:          'Full-Stack Software Developer'
-description:      ''
-url:              https://www.jacquesthurling.com
-baseurl:          /
+tracker:
+  google_analytics: "G-VPYFFQMGGW"
 
-author:
-  name:           'Jacques Thurling'
-  url:            
+# Disqus comments
+# disqushandler:            sighingnow
 
-paginate:         5
-paginate_path:    "page:num"
+exclude:
+  - _drafts
+
+collections:
+  docs:
+    output: false
+    permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
+page_width: 800px
+
+destination: ./_site
+incremental: false
+regenerate: true
+
 plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-# Custom vars
-version:          2.1.0
-google_analytics: "G-J7LPSHLPY6"
-
-twitter:          https://twitter.com/JT_Gl4SS3S
-github:
-  repo:           https://github.com/Gl4SS3S
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
