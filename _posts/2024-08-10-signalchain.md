@@ -28,7 +28,7 @@ Hopefully this will diagram, will be more helpful...
 
 ## How did I implement this?
 
-Since this is a web application we are using are going to be using a 3rd party application to handle the signal processing, the library we are using is [Elementary Audio](https://www.elementary.audio/).
+Since this is a web application we are using are going to be using a 3rd party application to handle the signal processing, the library we are using is [Elementary Audio](https://www.elementary.audio/){:target="_blank"}.  
 Elementary Audio allows for an easier time to connect to the Audio Context to the browser.
 
 For the main web application, we are using Angular, because I like it, so...deal with it.
