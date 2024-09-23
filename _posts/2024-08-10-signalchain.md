@@ -123,4 +123,4 @@ My signal chain is implemented using a mix of object arrays and observables to a
 There will be more information that follows as to how I implemented the effects themselves, as this is out of the scope of this article. Next we'll take a look at the filter,
 which uses the biquad filter and why I used that specifically.
 
-> Since this is my first technical article, please let me know where I can improve, you can find me on twitter/X - @j_thurling
+> Since this is my first technical article, please let me know where I can improve, you can find me on twitter/X - @0x_thurling
