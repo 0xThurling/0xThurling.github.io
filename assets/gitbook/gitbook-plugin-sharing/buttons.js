@@ -16,7 +16,7 @@ require(["gitbook", "jquery"], function(gitbook, $) {
       icon: "fa fa-twitter",
       onClick: function(e) {
         e.preventDefault();
-        window.open("https://x.com/j_thurling");
+        window.open("https://x.com/0x_thurling");
       },
     },
     github: {
@@ -24,7 +24,7 @@ require(["gitbook", "jquery"], function(gitbook, $) {
       icon: "fa fa-github",
       onClick: function(e) {
         e.preventDefault();
-        window.open("https://github.com/Gl4SS3S");
+        window.open("https://github.com/0xThurling");
       },
     },
     telegram: {
