@@ -8,7 +8,7 @@ cover: ../../assets/linkies.gif
 ---
 
 
-### Social Media Links and Email
+### Social Media Links and Email List
 
 <div style="display: flex; padding: 10px; border-radius: 25px; gap: 10px;">
   <a href="https://x.com/0x_thurling" target="_blank" style="color: white; text-decoration: none;">
