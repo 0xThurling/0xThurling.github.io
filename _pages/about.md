@@ -15,3 +15,8 @@ Now currently working as a software dev at a private financial institution build
 I make people's money go brrrrrrrr.
 
 Building new stuff that interests me.
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xThurling&layout=compact&langs_count=8&card_width=900" />
+</a>
+
