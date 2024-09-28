@@ -16,11 +16,6 @@ cover: ../../assets/linkies.gif
       <i class="fa fa-twitter" style="font-size: 20px;"></i>
     </div>
   </a>
-  <a href="https://stats.sender.net/forms/b2kkZj/view" target="_blank" style="color: white; text-decoration: none;">
-    <div style="background-color: #1e1e1e; width: 40px; height: 40px; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
-      <i class="fa fa-envelope" style="font-size: 20px;"></i>
-    </div>
-  </a>
   <a href="https://github.com/0xThurling" target="_blank" style="color: white; text-decoration: none;">
     <div style="background-color: #1e1e1e; width: 40px; height: 40px; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
       <i class="fa fa-github" style="font-size: 20px;"></i>
