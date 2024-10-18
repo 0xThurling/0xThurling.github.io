@@ -56,7 +56,7 @@ While I myself moved away from Neovim to essentially Jetbrains-vim, which I will
 
 Though there are some cool things about being part of the online tech twitter community, there are some small caveats that come with this:
 
-I cannot state this more lightly, some people are in fact just massive assholes, we are not going to name names, you just know 'em when you see 'em (or read 'em I guess). Those folk that will defend needlessly defend their position without knowing the full context or just attack you for saying something that isn't even controversial, like they're trying to prove a point, and boy...they will go down swinging.
+I cannot state this more lightly, some people are in fact just massive assholes, we are not going to name names, you just know 'em when you see 'em (or read 'em I guess). Those folks that will needlessly defend their position without knowing the full context or just attack you for saying something that isn't even controversial, like they're trying to prove a point, and boy...they will go down swinging.
 
 <img src="https://c.tenor.com/O2PdIqI1eucAAAAC/tenor.gif" alt="community-tiny-git" width="900"/>
 
