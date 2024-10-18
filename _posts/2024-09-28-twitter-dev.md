@@ -1,3 +1,11 @@
+---
+title: How Tech Twitter unironically made me a better developer
+date: 2024-08-10
+category: Jekyll
+layout: post
+cover: ../assets/twitter-header.png
+---
+
 > Before we begin, some people might wonder why not Threads or BlueSky, well the reality most of the dev community on those platforms are small and filled with people that do mostly engagement bait - much more than Twitter at the moment, so the experience engaging with people are a bit dull at times.
 
 ## Why I joined Tech Twitter
