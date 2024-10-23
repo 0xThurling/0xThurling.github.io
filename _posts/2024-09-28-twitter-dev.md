@@ -1,14 +1,12 @@
 ---
-title: How Tech Twitter unironically made me a better developer
+title: How Online Tech Communities unironically made me a better developer
 date: 2024-08-10
 category: Jekyll
 layout: post
 cover: ../assets/twitter-header.png
 ---
 
-> Before we begin, some people might wonder why not Threads or BlueSky, well the reality most of the dev community on those platforms are small and filled with people that do mostly engagement bait - much more than Twitter at the moment, so the experience engaging with people are a bit dull at times.
-
-## Why I joined Tech Twitter
+## Why I joined Tech Twitter/Threads/BlueSky...there really is too many
 
 Simple, to become a famous programmer...but in all honestly I'm way too stupid for that at the moment. The real reason is simply to grow my network in-case I get fired or something. I knew that, even though I don't really enjoy social media that much, it was needed to get opportunities I otherwise wouldn't have gotten, since I don't live in "the west", meaning US, EU, and other first world countries, my opportunities here are limited if you want to move outside of the financial space one day.
 
@@ -52,7 +50,7 @@ While I myself moved away from Neovim to essentially Jetbrains-vim, which I will
 
 <iframe style="width: 100%; height: 500px" src="https://www.youtube.com/embed/m8C0Cq9Uv9o" title="The Only Video You Need to Get Started with Neovim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Pitfalls of Tech Twitter
+## Pitfalls of Tech Communities
 
 Though there are some cool things about being part of the online tech twitter community, there are some small caveats that come with this:
 
