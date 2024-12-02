@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Projects
 description: Here be projects
 permalink: /projects
