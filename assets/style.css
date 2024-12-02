@@ -1,10 +1,10 @@
 body {
-    font-family: Verdana, sans-serif;
+    font-family: 'Fira Code', monospace;
     margin: auto;
     padding: 20px;
     max-width: 720px;
     text-align: left;
-    background-color: #fff;
+    background-color: #F8F1E5;
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
@@ -36,9 +36,10 @@ b {
 }
 
 a {
-    color: #3273dc;
+    color: #7C4011;
     cursor: pointer;
     text-decoration: none;
+    font-weight: 700;
 }
 
 a:hover {
@@ -242,7 +243,7 @@ ul.blog-posts li span {
 }
 
 ul.blog-posts li a:visited {
-    color: #8b6fcb;
+    color: #7C4011;
 }
 
 /* discovery feed */

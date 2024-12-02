@@ -59,7 +59,7 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-  
+  Projects: /projects 
 
 # Add links for more focus here
 special_links:

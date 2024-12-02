@@ -10,6 +10,23 @@ layout: compress
 
         {{ content }}
 
+        <div class="recent-posts">
+          <h3>Recent Writings</h3>
+          <ul class="blog-posts">
+          {% for post in site.posts limit:3 %}
+            <li>
+                <span>
+                    <i>
+                        <time datetime="2022-01-28" pubdate="">
+                            {{ post.date | date: "%b %-d, %Y" }}
+                        </time>
+                    </i>
+                </span>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
     </main>
 
     {% include footer.html %}
