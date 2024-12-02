@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Online Tech Communities unironically made me a better developer
-date: 2024-08-10
+date: 2024-09-28
 tags: [fiction]
 ---
 

@@ -1,9 +1,8 @@
 ---
 title: Signal Chaining
 date: 2024-08-10
-category: Jekyll
 layout: post
-cover: ../assets/signal-chain.png
+tags: [general]
 ---
 
 Before I get into the article, I need to open with the most pressing question, what in the name of rust, are you trying to do?
