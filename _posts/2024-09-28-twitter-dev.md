@@ -1,9 +1,8 @@
 ---
+layout: post
 title: How Online Tech Communities unironically made me a better developer
 date: 2024-08-10
-category: Jekyll
-layout: post
-cover: ../assets/twitter-header.png
+tags: [fiction]
 ---
 
 ## Why I joined Tech Twitter/Threads/BlueSky...there really is too many
