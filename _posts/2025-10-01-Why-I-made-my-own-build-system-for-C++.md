@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I'm busy making my own build system for C++
-date: 2025-01-15
+date: 2025-10-01
 tags: [general]
 ---
 
